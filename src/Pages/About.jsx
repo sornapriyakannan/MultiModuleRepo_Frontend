@@ -4,6 +4,7 @@ const About = () => {
   return (
     <div>
       <p>todolist</p>
+      <p>hi</p>
     </div>
   )
 }
